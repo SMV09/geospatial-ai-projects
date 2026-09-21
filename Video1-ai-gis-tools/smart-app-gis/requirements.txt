@@ -1,0 +1,7 @@
+geopandas
+shapely
+python-dotenv
+ipykernel
+google-genai
+folium
+matplotlib
