@@ -12,4 +12,4 @@ Workflow comparison: Comparing AI-assisted approaches and inspecting potential f
 
 ## Limitations
 
-Different prompts, thresholds, sensors, and methodologies can produce different mapped extents. The outputs represent experimental flood-related change detection, not validated flood-affected-area estimates. Independent validation and scientific interpretation are required before operational use.
+Different prompts, thresholds, and sensor methodologies yield different flood extents. The mapped outputs require scientific interpretation and independent validation before operational use.
